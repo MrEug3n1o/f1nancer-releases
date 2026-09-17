@@ -1,7 +1,7 @@
 # F1nancer — Downloads
 
 Official builds of **F1nancer**, a personal finance app for desktop and Android.
-This repository hosts release artifacts only; the source code is private.
+This repository hosts release artifacts only.
 
 ## Install
 
@@ -12,12 +12,3 @@ This repository hosts release artifacts only; the source code is private.
 | Android | `F1nancer-<version>.apk` | Sideload the APK; allow installs from your browser or file manager. |
 
 Grab the newest files from the [Releases page](https://github.com/MrEug3n1o/f1nancer-releases/releases/latest).
-
-## Updates
-
-The app checks this repository from **Settings → App updates** and installs the
-latest build for you — no Git, Node.js or Python needed.
-
-## Links
-
-- [Portfolio page](https://yevhenii-dyl-portfolio.web.app/f1nancer)
